@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @HariniS007
+- 👋 Hi, I’m Harini
 - 👀 I’m interested in app development and web development
-- 🌱 I’m currently learning full stack development
 - 📫 Reach me by harinisjan01@gmail.com
 
 <!---
